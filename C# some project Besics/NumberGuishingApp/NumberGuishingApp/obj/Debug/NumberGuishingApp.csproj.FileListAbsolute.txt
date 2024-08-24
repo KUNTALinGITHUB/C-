@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\Information Technology\c# complete Course\C# some project Besics\NumberGuishingApp\NumberGuishingApp\bin\Debug\NumberGuishingApp.exe.config
+C:\Users\user\Desktop\Information Technology\c# complete Course\C# some project Besics\NumberGuishingApp\NumberGuishingApp\bin\Debug\NumberGuishingApp.exe
+C:\Users\user\Desktop\Information Technology\c# complete Course\C# some project Besics\NumberGuishingApp\NumberGuishingApp\bin\Debug\NumberGuishingApp.pdb
+C:\Users\user\Desktop\Information Technology\c# complete Course\C# some project Besics\NumberGuishingApp\NumberGuishingApp\obj\Debug\NumberGuishingApp.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Information Technology\c# complete Course\C# some project Besics\NumberGuishingApp\NumberGuishingApp\obj\Debug\NumberGuishingApp.exe
+C:\Users\user\Desktop\Information Technology\c# complete Course\C# some project Besics\NumberGuishingApp\NumberGuishingApp\obj\Debug\NumberGuishingApp.pdb

@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\Information Technology\c# complete Course\C# some project Besics\stonePaperScissor\stonePaperScissor\bin\Debug\stonePaperScissor.exe.config
+C:\Users\user\Desktop\Information Technology\c# complete Course\C# some project Besics\stonePaperScissor\stonePaperScissor\obj\Debug\stonePaperScissor.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Information Technology\c# complete Course\C# some project Besics\stonePaperScissor\stonePaperScissor\bin\Debug\stonePaperScissor.exe
+C:\Users\user\Desktop\Information Technology\c# complete Course\C# some project Besics\stonePaperScissor\stonePaperScissor\bin\Debug\stonePaperScissor.pdb
+C:\Users\user\Desktop\Information Technology\c# complete Course\C# some project Besics\stonePaperScissor\stonePaperScissor\obj\Debug\stonePaperScissor.exe
+C:\Users\user\Desktop\Information Technology\c# complete Course\C# some project Besics\stonePaperScissor\stonePaperScissor\obj\Debug\stonePaperScissor.pdb

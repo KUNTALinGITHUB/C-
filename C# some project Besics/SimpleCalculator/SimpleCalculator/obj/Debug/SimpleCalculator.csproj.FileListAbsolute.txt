@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\Information Technology\c# complete Course\C# some project Besics\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\Users\user\Desktop\Information Technology\c# complete Course\C# some project Besics\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\Users\user\Desktop\Information Technology\c# complete Course\C# some project Besics\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\Users\user\Desktop\Information Technology\c# complete Course\C# some project Besics\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Information Technology\c# complete Course\C# some project Besics\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\Users\user\Desktop\Information Technology\c# complete Course\C# some project Besics\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb

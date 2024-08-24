@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\Information Technology\c# complete Course\C# some project Besics\BillingSystem\BillingSystem\bin\Debug\BillingSystem.exe.config
+C:\Users\user\Desktop\Information Technology\c# complete Course\C# some project Besics\BillingSystem\BillingSystem\bin\Debug\BillingSystem.exe
+C:\Users\user\Desktop\Information Technology\c# complete Course\C# some project Besics\BillingSystem\BillingSystem\bin\Debug\BillingSystem.pdb
+C:\Users\user\Desktop\Information Technology\c# complete Course\C# some project Besics\BillingSystem\BillingSystem\obj\Debug\BillingSystem.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Information Technology\c# complete Course\C# some project Besics\BillingSystem\BillingSystem\obj\Debug\BillingSystem.exe
+C:\Users\user\Desktop\Information Technology\c# complete Course\C# some project Besics\BillingSystem\BillingSystem\obj\Debug\BillingSystem.pdb
